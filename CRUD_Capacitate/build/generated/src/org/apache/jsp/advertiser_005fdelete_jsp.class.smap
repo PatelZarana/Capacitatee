@@ -1,0 +1,10 @@
+SMAP
+advertiser_005fdelete_jsp.java
+JSP
+*S JSP
+*F
++ 0 advertiser_delete.jsp
+advertiser_delete.jsp
+*L
+5,35:44
+*E
